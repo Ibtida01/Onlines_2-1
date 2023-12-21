@@ -1,1 +1,1 @@
-Kindly download the .html files and double click to access
+Kindly download the .zip files and use
