@@ -1,4 +1,5 @@
 ## How it Works
+## LEGEND: XYZ_base means 3 bit number in a specific base, eg- 10_2 means 10 in binary, which eqauals to 2 in decimal
 
 ### Step 1: Understand the Decimal Complement
 
